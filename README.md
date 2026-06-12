@@ -37,14 +37,6 @@ Atualmente, atuo como **Jovem Aprendiz na MPE Engenharia e Serviços S/A**, onde
 
 ---
 
-### 🐍 Histórico de Contribuições
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pedrop-ayop/pedrop-ayop/output/github-contribution-grid-snake.svg" alt="Jogo da Cobrinha dos Commits" />
-</p>
-
----
-
 ### 📊 Estatísticas Gerais
 
 <p align="left">
