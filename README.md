@@ -14,8 +14,8 @@ Atualmente, atuo como **Jovem Aprendiz na MPE Engenharia e Serviços S/A**, onde
 ### 🎓 Formação Acadêmica & Técnica
 
 * 🏫 **Ensino Médio** — SESI *(Em andamento)*
-* ⚙️ **Técnico em Mecatrônica** — SENAI *(1º Semestre)*
-* 🌐 **Técnico em Informática para Internet** — ETEC *(1º Semestre)*
+* ⚙️ **Técnico em Mecatrônica** — SENAI *(2º Semestre)*
+* 🌐 **Técnico em Informática para Internet** — ETEC *(2º Semestre)*
 
 ---
 
